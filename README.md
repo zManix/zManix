@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">My name is <strong>Manaia</strong>, and I am a <strong>appication developer</strong> in the first year of the apprenticeship at <strong>Swisscom</strong>.<br>I'm eager to expand my programming skills and learn new things.</p>
+<p align="center">My name is <strong>Manaia</strong>, and I am a <strong>application developer</strong> in the first year of the apprenticeship at <strong>Swisscom</strong>.<br>I'm eager to expand my programming skills and learn new things.</p>
 
 ###
 
@@ -30,12 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="90" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="90" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="90" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="90" alt="angularjs logo"  />
+  <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="40" width="90" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="90" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="90" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" width="90" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="90" alt="mysql logo"  />
 </div>
 
 ###

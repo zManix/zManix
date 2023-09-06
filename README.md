@@ -2,10 +2,7 @@
 
 ###
 
-<div align="center">
-    <img src="https://github.com/kyle006/kyle006/assets/117977568/0b3b9891-145d-4149-be79-0ce648a1c02b" alt="Header" 
- />
-</div>
+
 
 ###
 
@@ -21,7 +18,7 @@
 
 ###
 
-<p align="center">My name is <strong>Kyle</strong>, and I am a <strong>software engineer</strong> in the first year of the apprenticeship at <strong>Swisscom</strong>.<br>I'm eager to expand my programming skills and learn new things.</p>
+<p align="center">My name is <strong>Manaia</strong>, and I am a <strong>appication developer</strong> in the first year of the apprenticeship at <strong>Swisscom</strong>.<br>I'm eager to expand my programming skills and learn new things.</p>
 
 ###
 

@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="90" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="90" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="90" alt="javascript logo"  />
-  <img src="https://i.redd.it/tu3gt6ysfxq71.png" height="40" width="90" alt="vuejs logo"  />
+  <img src="https://assets.stickpng.com/images/62e131df7fe3599fdd46ecb3.png" height="40" width="90" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="90" alt="vscode logo"  />
 </div>
 

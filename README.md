@@ -44,9 +44,9 @@
   
   
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle006&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyle006&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kyle006&theme=radical&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zManix&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zManix&theme=radical)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zManix&theme=radical&utcOffset=8)
 
 ###
 
